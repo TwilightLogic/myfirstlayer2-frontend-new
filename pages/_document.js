@@ -8,6 +8,7 @@ export default function Document() {
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <link rel="icon" href="/icons/favicon.png" />
         <title>My First Layer2 - An education project for newbies to learn and interact with Layer2</title>
+        {/* SEO Improvement */}
         <meta
           name="description"
           content="MyFirstLayer2 is an education project for newbies to learn and interact with Layer2. As you can see from the name, our users are beginners curious about the knowledge and projects on Layer2. We will use funny and easy-to-understand diagrams and animation to explain Layer2 to newbies. "
